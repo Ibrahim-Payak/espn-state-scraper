@@ -11,7 +11,7 @@
 
 ## Overview
 
-- This project provides a scraping statistical data of all players across the entire IPL 2023 series. Whether you're a cricket enthusiast, a data analyst, or a developer looking to harness real-time sports data, this project serves as a valuable resource for collecting, processing, and analyzing IPL player statistics, also with few modification you can get your required data, feel free to use this code for that.
+- This project provides a scraping statistical data of all players across the entire IPL 2023 series. Whether you're a cricket enthusiast, a data analyst, or a developer looking to harness real-time sports data, this project serves as a valuable resource for collecting, processing, and analyzing IPL player statistics, and with few modification you can get your required data, feel free to use this code for your project.
 
 ### Built With
 
