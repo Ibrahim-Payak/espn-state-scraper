@@ -22,7 +22,6 @@
 - Comprehensive Data: Scrapes a wide range of player statistics, including runs scored, balls faced, fours, sixes, strike rate, and more.
 - Customizable: The codebase is designed to be modular and easily customizable. With a few modifications, you can scrape data for specific seasons, teams, or players of your choice.
 - Data Export: Data can be exported in various formats, such as CSV or Excel, for further analysis or visualization.
-- 
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
